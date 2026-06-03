@@ -28,10 +28,8 @@
 <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></a>
 <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" /></a>
 <a href="https://firebase.google.com/?hl=pt" target="_blank"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" /></a>
-<a href="https://azure.microsoft.com/pt-br/services/devops/" target="_blank"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" /></a>
 <a href="https://aws.amazon.com/pt/" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
 <a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
-<a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
 </p>
 
 <hr> 
